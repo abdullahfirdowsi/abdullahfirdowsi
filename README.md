@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 <!--  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a> -->
-  <a href="https://github.com/abdullahfirdowsi/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="https://www.linkedin.com/in/abdullahfirdowsi/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullahfirdowsi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
+   </a>
+  <a href="https://github.com/abdullahfirdowsi/" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+
 <!--  <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
@@ -56,9 +57,9 @@ Here are some ideas to get you started:
   
  ✌️ &emsp; I’m currently pursuing a Bachelor of Technology (B.Tech) degree in Artificial Intelligence and Data Science at Karpagam College of Engineering <br/><br/>
  🔭 &emsp; **Currently working on:** 
-- Developing a generative artificial intelligence (Gen AI)-based learning platform
-- Working on a computer vision-based image processing project
-- Streamlining vehicle routing in Tamil Nadu District using graph energy concepts and Google Maps.
+- Developing a generative artificial intelligence (Gen AI) - based learning platform
+- Working on a computer vision - based image processing project
+- Streamlining vehicle routing in Tamil Nadu District using graph energy and Google Maps.
 <br/>
 <!--
 💬 &emsp; Ask me about anything [here](https://github.com/abdullahfirdowsi/abdullahfirdowsi/issues)<br/>
@@ -107,9 +108,10 @@ Here are some ideas to get you started:
 <br/>
 
 ## Top Open Source -
-[![E-Commerce Product Quality Analysis - Machine Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=amazon-review&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/amazon-review)
-[![Plant Disease Prediction - Deep Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=cassava-leaf-disease-classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/cassava-leaf-disease-classification)
 [![eLearning Platform - Web Development Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=edusphere&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/edusphere)
+[![Plant Disease Prediction - Deep Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=cassava-leaf-disease-classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/cassava-leaf-disease-classification)
+[![E-Commerce Product Quality Analysis - Machine Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=amazon-review&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/amazon-review)
+
 [![Abdullah Firdowsi Readme](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=abdullahfirdowsi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/abdullahfirdowsi)
 
 <p align="left">
