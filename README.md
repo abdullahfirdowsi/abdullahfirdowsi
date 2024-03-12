@@ -12,32 +12,57 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"align="center" height="325" />
 </div>  
+-->
 
-## <div align="center">I'm Abdullah Firdowsi,  </div>  
-  
+<h2 align="center">
+  Hey There!, I am Abdullah Firdowsi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-- 🔭 I’m currently working on AI projects  
-  
+<p align="center">
+<!--  <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a> -->
+  <a href="https://github.com/abdullahfirdowsi/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+ <a href="https://www.linkedin.com/in/abdullahfirdowsi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+<!--  <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+  <a href="https://instagram.com/abdullah_firdowsi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://twitter.com/AFirdowsi" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ 
+<!--  <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a>  -->
+</p>
+<br />
 
-- 🌱 I’m currently learning Django / Artifical Intelligence  
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding gif" />
   
+ ✌️ &emsp; I’m currently pursuing a Bachelor of Technology (B.Tech) degree in Artificial Intelligence and Data Science at Karpagam College of Engineering <br/><br/>
+ 🔭 &emsp; Love to writing code and learning new features<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/abdullahfirdowsi/abdullahfirdowsi/issues)<br/><br/>
+ ✉️ &emsp; To reach me [send me a quick mail](mailto:abdullahfirdowsi@gmail.com)<br/><br/>
 
-- ✉️ To reach me [send me a quick mail](mailto:arunohm25@gmail.com)  
-  
+</p>
 
   
-  
-
 <br/>  
 
 
