@@ -109,9 +109,9 @@ Here are some ideas to get you started:
 
 ## Top Open Source -
 [![Static Web Application](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=stone-paper-scissors&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/stone-paper-scissors)
-[![eLearning Platform - Web Development Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=edusphere&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/edusphere)
+[![eLearning Platform - Web Development Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=eduspher&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/edusphere)
 [![Plant Disease Prediction - Deep Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=cassava-leaf-disease-classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/cassava-leaf-disease-classification)
-[![E-Commerce Product Quality Analysis - Machine Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=amazon-review&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/amazon-review)
+[![E-Commerce Product Quality Analysis - Machine Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=amazon-reviews&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/amazon-review)
 
 <!--
 [![Abdullah Firdowsi Readme](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=abdullahfirdowsi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/abdullahfirdowsi)
