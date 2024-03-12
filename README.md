@@ -59,7 +59,7 @@ Here are some ideas to get you started:
  🔭 &emsp; **Currently working on:** 
 - Developing a generative artificial intelligence (Gen AI) - based learning platform
 - Working on a computer vision - based image processing project
-- Streamlining vehicle routing in Tamil Nadu District using graph energy and Google Maps.
+- Streamlining vehicle routing in Tamil Nadu District using graph energy and GMaps.
 <br/>
 <!--
 💬 &emsp; Ask me about anything [here](https://github.com/abdullahfirdowsi/abdullahfirdowsi/issues)<br/>
@@ -111,9 +111,9 @@ Here are some ideas to get you started:
 [![eLearning Platform - Web Development Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=edusphere&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/edusphere)
 [![Plant Disease Prediction - Deep Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=cassava-leaf-disease-classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/cassava-leaf-disease-classification)
 [![E-Commerce Product Quality Analysis - Machine Learning Project](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=amazon-review&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/amazon-review)
-
+<!--
 [![Abdullah Firdowsi Readme](https://github-readme-stats.vercel.app/api/pin/?username=abdullahfirdowsi&repo=abdullahfirdowsi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abdullahfirdowsi/abdullahfirdowsi)
-
+-->
 <p align="left">
   <a href="https://github.com/abdullahfirdowsi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
