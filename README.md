@@ -118,12 +118,11 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-<hr/>
-<br/>
 
 -->
 
-
+<hr/>
+<br/>
 
 
 <p align="center">
