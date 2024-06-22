@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 <p>
  <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding gif" />
   
- ✌️ &emsp; I’m currently pursuing a Bachelor of Technology (B.Tech) degree in Artificial Intelligence and Data Science at Karpagam College of Engineering <br/><br/>
+ <!-- ✌️ &emsp; I’m currently pursuing a Bachelor of Technology (B.Tech) degree in Artificial Intelligence and Data Science at Karpagam College of Engineering <br/><br/>
  🔭 &emsp; **Currently working on:** 
 - Developing a generative artificial intelligence (Gen AI) - based learning platform
 - Working on a computer vision - based image processing project
-- Streamlining vehicle routing in Tamil Nadu District using graph energy and GMaps.
+- Streamlining vehicle routing in Tamil Nadu District using graph energy and GMaps. -->
 <br/>
 
 🎓 I’m currently studying at **Karpagam College of Engineering**
