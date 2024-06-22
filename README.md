@@ -59,13 +59,14 @@ Here are some ideas to get you started:
 - Developing a generative artificial intelligence (Gen AI) - based learning platform
 - Working on a computer vision - based image processing project
 - Streamlining vehicle routing in Tamil Nadu District using graph energy and GMaps. -->
-<br/>
 
 🎓 I’m currently studying at **Karpagam College of Engineering**
 
 📃 I’m currently learning ** Python, SQL, and Data Science**
 
 🎖️ Just take a look on my portfolio, [click here](https://abdullahfirdowsi.github.io/)
+
+<br/>
 
 <!--
 💬 &emsp; Ask me about anything [here](https://github.com/abdullahfirdowsi/abdullahfirdowsi/issues)<br/>
