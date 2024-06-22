@@ -63,11 +63,9 @@ Here are some ideas to get you started:
 
 🎓 I’m currently studying at **Karpagam College of Engineering**
 
-🤝 I require assistance regarding concepts within **Full Stack Web Development Technologies**
+📃 I’m currently learning ** Python, SQL, and Data Science**
 
-📃 I’m currently learning **JavaScript, Python, React Js, Flutter**
-
-🎖️ Just take a look on my digital resume, [click here](my-resume-five-sand.vercel.app)
+🎖️ Just take a look on my portfolio, [click here](https://abdullahfirdowsi.github.io/)
 
 <!--
 💬 &emsp; Ask me about anything [here](https://github.com/abdullahfirdowsi/abdullahfirdowsi/issues)<br/>
