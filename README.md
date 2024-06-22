@@ -62,7 +62,11 @@ Here are some ideas to get you started:
 
 🎓 I’m currently studying at **Karpagam College of Engineering**
 
-📃 I’m currently learning ** Python, SQL, and Data Science**
+📃 I’m currently learning **Python, SQL, and Data Science**
+
+🔭 &emsp; **Currently working on:** 
+- Developing a generative artificial intelligence (Gen AI) - based learning platform
+- Streamlining vehicle routing in Tamil Nadu District using graph energy and GMaps
 
 🎖️ Just take a look on my portfolio, [click here](https://abdullahfirdowsi.github.io/)
 
