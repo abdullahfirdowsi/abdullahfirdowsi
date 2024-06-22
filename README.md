@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 📃 I’m currently learning **Python, SQL, and Data Science**
 
-🔭 &emsp; I’m currently working on,
+🔭 I’m currently working on,
 
 - Developing a generative artificial intelligence (Gen AI) - based learning platform
 - Streamlining vehicle routing in Tamil Nadu District using graph energy and GMaps
