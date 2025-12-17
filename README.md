@@ -28,7 +28,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-💼 **Software Engineer Trainee at iLink Digital** (Feb 2025 – Present) :contentReference[oaicite:0]{index=0}  
+💼 **Software Engineer Trainee at iLink Digital** (Feb 2025 – Present) 
 🎓 **B.Tech – Artificial Intelligence & Data Science**  
 🏫 Karpagam College of Engineering, Coimbatore (CGPA: 8.3)
 
@@ -125,12 +125,12 @@ Published in *International Research Journal of Education and Technology* :conte
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfirdowsi&theme=radical"/>
-</p>
+</p> -->
 
 <p align="center">
-  <!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullahfirdowsi&show_icons=true&count_private=true&theme=react" width="49%"/> -->
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullahfirdowsi&show_icons=true&count_private=true&theme=react" width="49%"/>
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullahfirdowsi&layout=compact&theme=react" width="49%"/>
 </p>
 
