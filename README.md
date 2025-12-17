@@ -4,7 +4,7 @@
 <!-- Profile README for Abdullah Firdowsi -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Firdowsi;Software+Engineer+@+iLink+Digital" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Firdowsi;Intern+@+iLink+Digital" />
 </h2>
 
 <p align="center">
