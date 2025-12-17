@@ -28,9 +28,10 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-💼 **Software Engineer Trainee at iLink Digital** (Feb 2025 – Present) /n
-🎓 **B.Tech – Artificial Intelligence & Data Science**  
-🏫 Karpagam College of Engineering, Coimbatore (CGPA: 8.3)
+💼 <b>Software Engineer Trainee</b> at <b>iLink Digital</b> (Feb 2025 – Present)<br>
+🎓 <b>B.Tech – Artificial Intelligence & Data Science</b><br>
+🏫 <b>Karpagam College of Engineering</b>, Coimbatore (CGPA: 8.3)
+
 
 I am passionate about **AI, Data Science, and Software Development**, with hands-on experience in **Generative AI, machine learning, data analytics, and full-stack development**. I enjoy building intelligent systems and scalable applications that solve real-world problems.
 
