@@ -62,19 +62,19 @@ I am passionate about **AI, Data Science, and Software Development**, with hands
 ## 🚀 Projects
 
 ### 🔹 Amazon E-Commerce Product Quality Analysis  
-**Tech Stack:** Sentiment Analysis, LSTM, Scraper API, Render :contentReference[oaicite:3]{index=3}  
+**Tech Stack:** Sentiment Analysis, LSTM, Scraper API, Render   
 - Built an interactive web app to predict product quality using customer reviews
 - Implemented **LSTM models** for sentiment-based classification  
 🔗 https://github.com/abdullahfirdowsi/amazon-review
 
 ### 🔹 LeafCare – Cassava Leaf Disease Detection  
-**Tech Stack:** CNN, EfficientNetB0, Streamlit :contentReference[oaicite:4]{index=4}  
+**Tech Stack:** CNN, EfficientNetB0, Streamlit 
 - Achieved **96% accuracy** in disease classification
 - Applied deep learning for agricultural problem-solving  
 🔗 https://github.com/abdullahfirdowsi/cassava-leaf-disease-classification
 
 ### 🔹 EduSphere – Personalized Self-Learning Platform  
-**Tech Stack:** React, Flask, MySQL, XAMPP :contentReference[oaicite:5]{index=5}  
+**Tech Stack:** React, Flask, MySQL, XAMPP
 - Unified self-learning tools into one accessible platform
 - Features monitoring, grading, programming, and learning  
 🔗 https://github.com/abdullahfirdowsi/edusphere
