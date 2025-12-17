@@ -40,22 +40,6 @@ I am passionate about **AI, Data Science, and Software Development**, with hands
 
 ---
 
-## 💼 Experience
-
-### 🧑‍💻 Software Engineer Trainee — *iLink Digital*  
-**Feb 2025 – Present** :contentReference[oaicite:1]{index=1}  
-- Working in the **Digital Experience & AI Business Unit**
-- Hands-on experience with **.NET, C#, Python, Angular**
-- Leveraging **Azure Cloud Services** for deployment, scalability, and management
-- Contributing to **Generative AI–driven applications**
-
-### 📊 Power BI Intern — *We & Data*  
-**May 2023** :contentReference[oaicite:2]{index=2}  
-- Built interactive dashboards using **Microsoft Power BI**
-- Designed data visualizations and reports for real-world datasets
-
----
-
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages
@@ -94,33 +78,6 @@ I am passionate about **AI, Data Science, and Software Development**, with hands
 - Unified self-learning tools into one accessible platform
 - Features monitoring, grading, programming, and learning  
 🔗 https://github.com/abdullahfirdowsi/edusphere
-
----
-
-## 🏆 Achievements
-
-🥇 1st Place – Poster Presentation (NITT Vortex ’23)  
-🥇 1st Place – Paper Presentation (PSG Kriya ’23)  
-🥇 1st Place – Paper Presentation (BIT V-Prayukti ’23)  
-🥈 Silver Idea Winner – StartupTN Idea Presentation :contentReference[oaicite:6]{index=6}
-
----
-
-## 📚 Research & Publications
-
-📄 **“Energy of a Graph Associated with the Tamil Nadu District Map”**  
-Published in *International Research Journal of Education and Technology* :contentReference[oaicite:7]{index=7}  
-🔗 https://www.irjweb.com/viewarticle.php?aid=Energy-of-a-Graph-associated-with-Tamil-Nadu-District-Map
-
----
-
-## 📜 Certifications
-
-- Coursera – Machine Learning Specialization
-- NPTEL – Database Management System
-- DataCamp – Associate Data Analyst
-- NVIDIA – Fundamentals of Deep Learning
-- freeCodeCamp – Data Analysis with Python :contentReference[oaicite:8]{index=8}
 
 ---
 
