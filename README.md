@@ -132,7 +132,7 @@ Published in *International Research Journal of Education and Technology* :conte
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullahfirdowsi&show_icons=true&count_private=true&theme=react" width="49%"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullahfirdowsi&layout=compact&theme=react" width="49%"/>
+  <!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullahfirdowsi&layout=compact&theme=react" width="49%"/> -->
 </p>
 
 ---
